@@ -97,6 +97,7 @@ article {
   border-radius: 1.5rem;
   padding-bottom: 2.1rem;
   max-width: 20.1875rem;
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.3);
 }
 
 article img {
